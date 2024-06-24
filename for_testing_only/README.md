@@ -1,3 +1,3 @@
 The respective project can be found at [this Link !]()
 
-![Alt Text](https://imgur.com/GMolaql)
+![App Image]([https://imgur.com/GMolaql](https://imgur.com/a/4emmLYS))
